@@ -8,3 +8,4 @@ Now I using
 - Multiple_regression_analysis
 - Logistic-regression-analysis
 - Decision-tree-analysis
+- SVM(support vector machine)
