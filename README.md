@@ -6,5 +6,5 @@ Now I using
 - k-means
 - ward
 - Multiple_regression_analysis
-- Logistic-regression-analysis.ipynb
-- Decision-tree-analysis.ipynb
+- Logistic-regression-analysis
+- Decision-tree-analysis
