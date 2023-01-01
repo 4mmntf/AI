@@ -6,3 +6,4 @@ Now I using
 - k-means
 - ward
 - Multiple_regression_analysis
+Logistic-regression-analysis.ipynb
