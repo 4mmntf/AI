@@ -5,6 +5,7 @@ Now I using
 - UMAP
 - k-means
 - ward
+- Simple_regression_analysis
 - Multiple_regression_analysis
 - Logistic-regression-analysis
 - Decision-tree-analysis
