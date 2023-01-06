@@ -12,3 +12,4 @@ Now I using
 - SVM(support vector machine)
 - Random-forest
 - Gradient-boosting
+- Deeplearning
