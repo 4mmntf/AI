@@ -10,3 +10,4 @@ Now I using
 - Logistic-regression-analysis
 - Decision-tree-analysis
 - SVM(support vector machine)
+- Random-forest
