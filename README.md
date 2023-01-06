@@ -11,3 +11,4 @@ Now I using
 - Decision-tree-analysis
 - SVM(support vector machine)
 - Random-forest
+- Gradient-boosting
